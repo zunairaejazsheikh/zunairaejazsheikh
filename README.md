@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Zunaira, an IT Professional
+
+### Information Technology Projects:
+- osTicket (Help Desk Ticketing System)
+
 
 <!--
 **zunairaejazsheikh/zunairaejazsheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
